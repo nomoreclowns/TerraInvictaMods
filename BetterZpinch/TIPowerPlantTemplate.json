@@ -1,0 +1,23 @@
+[
+ {
+   "dataName": "FlowStabilizedZPinchFusionReactor",
+   "friendlyName": "Flow Stabilized Z-Pinch Fusion Reactor",
+   "maxOutput_GW": 300000,
+   "specificPower_tGW": 0.0068,
+   "powerPlantClass": "Z_Pinch_Fusion",
+   "requiredProjectName": "Project_FlowStabilizedZPinchFusionReactor",
+   "generalUse": false,
+   "efficiency": 0.999,
+   "crew": 12,
+   "weightedBuildMaterials": {
+      "water": 0.02,
+      "volatiles": 0.2,
+      "metals": 0.45,
+      "nobleMetals": 0.3,
+      "fissiles": 0.02,
+      "antimatter": null,
+      "exotics": 0.01
+   },
+   "iconResource": "shipbuildericons/ICO_FlowStabilizedZPinchFusionReactor"
+},
+]

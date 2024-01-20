@@ -1,0 +1,100 @@
+[
+ {
+   "dataName": "ClaimMEXGuatemala",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Guatemala",
+   "projectUnlockName": "Project_XXXXXXXXX1"
+ },
+ {
+   "dataName": "ClaimMEXElSalvador",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "ElSalvador",
+   "projectUnlockName": "Project_XXXXXXXXX1"
+ },
+ {
+   "dataName": "ClaimMEXBelize",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Belize",
+   "projectUnlockName": "Project_XXXXXXXXX1"
+ },
+ {
+   "dataName": "ClaimMEXCostaRica",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "CostaRica",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXNicaragua",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Nicaragua",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXHonduras",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Honduras",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXCalifornia",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "California",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXRockyMountains",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "RockyMountains",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXTexas",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Texas",
+   "projectUnlockName": "Project_XXXXXXXXX2"
+ },
+ {
+   "dataName": "ClaimMEXWestIndies",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "WestIndies",
+   "projectUnlockName": "Project_XXXXXXXXX3"
+ },
+ {
+   "dataName": "ClaimMEXCuba",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Cuba",
+   "projectUnlockName": "Project_XXXXXXXXX3"
+ },
+ {
+   "dataName": "ClaimMEXBritishWestIndies",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "BritishWestIndies",
+   "projectUnlockName": "Project_XXXXXXXXX3"
+ },
+ {
+   "dataName": "ClaimMEXDutchCaribbean",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "DutchCaribbean",
+   "projectUnlockName": "Project_XXXXXXXXX3"
+ },
+ {
+   "dataName": "ClaimMEXPanama",
+   "relationType": "Claim",
+   "nation1": "MEX",
+   "region1": "Panama",
+   "projectUnlockName": "Project_XXXXXXXXX3"
+ }
+]
